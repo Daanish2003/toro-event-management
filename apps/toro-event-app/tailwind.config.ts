@@ -1,0 +1,1 @@
+export * from "@toro-event/ui/tailwind.config";

@@ -1,6 +1,6 @@
 import * as React from "react"
 
-import { cn } from "src/lib/utils"
+import { cn } from "@toro-event/ui/lib/utils"
 
 const Table = React.forwardRef<
   HTMLTableElement,
